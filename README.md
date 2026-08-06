@@ -33,7 +33,7 @@ clean-markdown/
 `scan_slop.py` works without agents too, as a plain first-pass linter:
 
 ```bash
-python3 scripts/scan_slop.py path/to/file.md
+python3 scripts/scan_slop.py path/to/file
 ```
 
 It only reports line numbers and matches. It does not rewrite anything, since deciding how to fix a sentence needs judgment that a regex doesn't have, especially in technical writing where code, commands, and exact strings have to stay untouched.
