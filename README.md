@@ -46,6 +46,3 @@ The pattern list is not exhaustive and skews toward what shows up in English and
 
 MIT. See `LICENSE`.
 
-For discoverability, add these under the repo's About section:
-
-`claude`, `claude-code`, `agent-skills`, `markdown`, `linter`, `writing-tools`, `ai-detection`, `llm`, `python`, `bahasa-indonesia`
